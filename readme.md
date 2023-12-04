@@ -1,5 +1,5 @@
 # About The Project
-<img src='https://www.kaggle.com/competitions/9988/images/header'></img>
+<img src='./images_for_readme/header.png'></img>
 
 ## Airbus Ship Detection Challenge 
 
